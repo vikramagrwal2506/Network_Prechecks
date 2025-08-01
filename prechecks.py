@@ -2,8 +2,8 @@ import netmiko
 import getpass # For securely getting password input
 
 # --- User Credentials (can be hardcoded for testing, but secure input is recommended) ---
-username = "vikram"
-password = "vsh1INR"
+username = "vikram.agarwal"
+password = "2Q90BhtyK-z-"
 
 # --- Read Device List ---
 devices_file = "devices.txt"
