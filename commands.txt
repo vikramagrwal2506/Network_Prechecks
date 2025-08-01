@@ -1,2 +1,2 @@
-sh int status
-sh port-channel summary
+sh ip int breif
+sh version
