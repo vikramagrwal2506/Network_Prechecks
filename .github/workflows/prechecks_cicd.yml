@@ -48,6 +48,7 @@ jobs:
             sudo systemctl start apache2
             sudo systemctl enable apache2
             cd home/prechecks
+            source venv_prechecks/bin/activate
             python3 prechecks.py
             
 
