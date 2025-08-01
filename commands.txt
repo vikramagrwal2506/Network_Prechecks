@@ -1,2 +1,2 @@
 sh int status
-sh version
+sh port-channel summary
