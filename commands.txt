@@ -1,3 +1,3 @@
-sh ip int breif
+sh ip int brief
 sh version
 sh interface description
