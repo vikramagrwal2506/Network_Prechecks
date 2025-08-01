@@ -1,3 +1,2 @@
 sh ip int brief
 sh version
-sh interface description
