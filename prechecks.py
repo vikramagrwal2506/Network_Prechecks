@@ -3,7 +3,7 @@ import getpass # For securely getting password input
 
 # --- User Credentials (can be hardcoded for testing, but secure input is recommended) ---
 username = "vikram.agarwal"
-password = "BU5-_zYIxa4p1H"
+password = "V664j_-MLhu6H"
 
 # --- Read Device List ---
 devices_file = "devices.txt"
